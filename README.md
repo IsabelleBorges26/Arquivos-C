@@ -2,6 +2,6 @@
 
 <div align = "center">
   
-<font size + 20>  Isabelle Borges </font>
+<font size = 20>  Isabelle Borges </font>
 
 </div>
